@@ -1,6 +1,6 @@
 # VRP-Problems
 
-Assignment for the course «Optimization Methods in Management Science». 
+Assignment for the course «Optimization Methods in Management Science» (2021). 
 The purpose of the assignment is to solve a vehicle routing problem, which relates to the transportation of materials to various destinations. 
 The design of the routes must minimize the completion time (hours) of delivering the products to the destinations. 
 Initially, a solution was generated through a greedy algorithm. Then, the solution was optimized using local search algorithms.
