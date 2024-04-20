@@ -1,13 +1,6 @@
 from greedy import *
 
 
-class end():
-    flag = True
-
-
-end = end()
-
-
 def findDemand(point):
     for node in all_nodes:
         if node.id == point:
@@ -23,7 +16,10 @@ def findUnloadTime(point):
             else:
                 return 5 / 12
 
+class end():
+    flag = True
 
+end = end()
 
 def try_relocation(originRouteIndex, targetRouteIndex, originRtCostChange, targetRtCostChange):
     max = 0
