@@ -1,4 +1,4 @@
-from greedy_8180013 import *
+from greedy import *
 
 
 class end():
