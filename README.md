@@ -17,4 +17,4 @@ The scenario is as follows:
 
 Τhe solution includes the total time and the sets of locations that correspond to each vehicle.
    
-Using the greedy algorithm, the total time was approximately 8 hours. The solution was imporved by using 1-0 and 1-1 exchanges among the locations in the vehicles' routes.. The total time was reduced to 5.8 hours.  
+Using the greedy algorithm, the total time was approximately 8 hours. The solution was imporved by using 1-0 and 1-1 exchanges among the locations in the vehicles' routes. The total time was reduced to 5.8 hours.  
