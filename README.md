@@ -1,7 +1,7 @@
 # VRP-Problems
 
 Assignment for the course «Optimization Methods in Management Science» (2021). 
-The purpose of the assignment is to solve a vehicle routing problem (using Python), which relates to the transportation of materials to various destinations. 
+The purpose of the assignment was to solve a vehicle routing problem (using Python), which relates to the transportation of materials to various destinations. 
 The design of the routes should minimize the completion time (hours) of delivering the products to the destinations. 
 Initially, a solution was generated through a greedy algorithm. Then, the solution was optimized using local search algorithms.
 
